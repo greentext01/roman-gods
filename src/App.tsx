@@ -166,7 +166,7 @@ function App() {
           <div className="mt-12">
             <h2 className="mb-7 xl:mr-[20%] xl:text-right">
               <div className="font-black text-shadow text-5xl">
-                Temple of Jupiter
+                Temple of Zeus
               </div>
               <span className="mr-10">
                 Highlights of{" "}

@@ -29,7 +29,7 @@ function App() {
               </div>
               <img
                 src="title.svg"
-                alt="All about Jupiter"
+                alt="All about Zeus"
                 className="w-full h-full max-w-[800px]"
               />
             </div>
@@ -41,7 +41,7 @@ function App() {
               </h2>
               <article className="font-mono text-sm">
                 <p className="mb-5">
-                  Jupiter was the child of two titans, Kronos and Rhea{" "}
+                  Zeus was the child of two titans, Kronos and Rhea{" "}
                   <a
                     href="/sources#8"
                     className="text-blue-500 visited:text-purple-700 underline"
@@ -73,10 +73,10 @@ function App() {
                   )}
                 </p>
                 <p className="mb-5">
-                  Except, when Jupiter was about to be born, Rhea asked Uranus
-                  and Ge for advice to save Jupiter. Uranus and Ge sent Rhea to
+                  Except, when Zeus was about to be born, Rhea asked Uranus
+                  and Ge for advice to save Zeus. Uranus and Ge sent Rhea to
                   Lyctos in Crete, and asked her to bring her child there. Rhea
-                  hid Jupiter in a cave in Mount Aegaeon{" "}
+                  hid Zeus in a cave in Mount Aegaeon{" "}
                   <a
                     href="/sources#6"
                     className="text-blue-500 visited:text-purple-700 underline"
@@ -90,7 +90,7 @@ function App() {
                   >
                     [7]
                   </a>
-                  . Jupiter then grew up in Krete, and was nursed by nymphs with
+                  . Zeus then grew up in Krete, and was nursed by nymphs with
                   the milk of the goat Amaltheia{" "}
                   <a
                     href="/sources#16"
@@ -120,7 +120,7 @@ function App() {
 
             <article className="font-mono text-sm xl:max-w-[30rem] xl:ml-10">
               <p className="mb-5">
-                First, Jupiter had many, many love affairs [10, 11, 12]. He
+                First, Zeus had many, many love affairs [10, 11, 12]. He
                 constantly cheated on his wife Hera, and had children with many
                 nymphs, goddesses, demigoddesses, and mortals. Many times, he
                 changed himself as an animal or an object to do so. Such animals
@@ -148,8 +148,8 @@ function App() {
                 .
               </p>
               <p className="mb-5">
-                Jupiter was also quick to anger. For example, when Prometheus
-                stole fire from the Gods and gave it to humans, Jupiter got
+                Zeus was also quick to anger. For example, when Prometheus
+                stole fire from the Gods and gave it to humans, Zeus got
                 angry and tied him with chains, impaled him with a stick, and
                 sent an eagle to eat his liver everyday{" "}
                 <a
@@ -160,7 +160,7 @@ function App() {
                 </a>
                 .
               </p>
-              <p>Jupiter was also described as “wise” in some ancient texts.</p>
+              <p>Zeus was also described as “wise” in some ancient texts.</p>
             </article>
           </div>
           <div className="mt-12">
@@ -186,7 +186,7 @@ function App() {
             </h2>
             <article className="font-mono text-sm xl:max-w-[30rem] xl:ml-[30%]">
               <p className="mb-5">
-                The temple of Jupiter was a temple in Athens. It was built
+                The temple of Zeus was a temple in Athens. It was built
                 around 460 BC by the architect Libon of Elis, and was made of
                 shell conglomerate. The exposed surfaces were covered with a
                 coat of white stucco. Its porch and rear porch provided access
@@ -203,13 +203,13 @@ function App() {
 
               <p className="mb-5">
                 Inside the temple was one of the seven wonders of the ancient
-                world, the Statue of Jupiter. It was made by the Athenian
+                world, the Statue of Zeus. It was made by the Athenian
                 sculptor Phidias, who represented the god seated on a throne.
               </p>
               <p className="mb-5">
-                Beside the temple was the great altar of Olympian Jupiter, in
+                Beside the temple was the great altar of Olympian Zeus, in
                 which was a mound of the ashes of the animals sacrificed to
-                Jupiter.
+                Zeus.
               </p>
             </article>
           </div>
